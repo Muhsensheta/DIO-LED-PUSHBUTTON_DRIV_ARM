@@ -1,0 +1,2 @@
+../Src/PB_prog.c:14:6:PB_void_Init	8	static
+../Src/PB_prog.c:20:6:PB_void_GetRead	16	static
